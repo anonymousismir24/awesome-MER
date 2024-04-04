@@ -1,7 +1,5 @@
 # <p align=center> This repo supplements our survey: Unveiling Musical Emotions: Exploring the Landscape of Music Emotion Recognition (anonymous version)
 
-> **<p align="justify"> Abstract:** *This paper presents a novel perspective on Music Emotion Recognition (MER), focusing on distinct challenges, community engagement, and innovative approaches. Rather than striving for comprehensive coverage within the confines of traditional surveys, we delve into the dynamic landscape of MER, emphasizing collaborative efforts, emerging challenges, and promising avenues for research. Our exploration offers insights into the evolving methodologies and applications within the field, aiming to inspire dialogue and collaboration among researchers and practitioners. By embracing a nuanced perspective and highlighting unique angles, this paper contributes to the ongoing discourse on MER, paving the way for future advancements and collaborative endeavors.* </p>
-
 A curated list of Datasets, Models for Music Emotion Recognition (MER)
 
 ## Overview
